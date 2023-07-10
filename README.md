@@ -1,1 +1,2 @@
 # otomasyon
+# test bişeyler
